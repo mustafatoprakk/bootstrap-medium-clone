@@ -1,0 +1,16 @@
+body{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+}
+
+.asside-buttons>li{
+    margin-bottom: 10px;
+}
